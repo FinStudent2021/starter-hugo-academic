@@ -38,7 +38,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
@@ -73,6 +73,7 @@ features:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
+    # photo shape
   avatar:
     gravatar: false
     shape: circle
