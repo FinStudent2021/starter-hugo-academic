@@ -26,19 +26,19 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:valentina.rutigliano@sauder.ubc.ca
+    link: mailto:husna_memon@sfu.ca
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/valentinaruts
+    link: https://twitter.com/husnarmemon
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/valentinaruts
+#  - icon: github
+#    icon_pack: fab
+ #   link: https://github.com/valentinaruts
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/valentina-rutigliano-297353110/
+    link: https://www.linkedin.com/in/husnamemon/
 
 
 # Link to a PDF of your resume/CV.
