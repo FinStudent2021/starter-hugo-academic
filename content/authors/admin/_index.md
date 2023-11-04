@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Valentina Rutigliano
+title: Husna Memon
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,9 +10,8 @@ role: Finance Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sauder School of Business
-    url: https://www.sauder.ubc.ca/
-
+  - name: SFU Beedie School of Business
+    url: https://https://beedie.sfu.ca/
 
 # Interests to show in About widget
 # interests:
