@@ -15,10 +15,12 @@ organizations:
 
 
 # Interests to show in About widget
-# interests:
-# - Corporate Finance
-#  - Sustainable Finance
-#  - Capital Structure
+ interests:
+  - Corporate Finance
+  - Sustainable Finance
+  - Corporate Governance
+  - Capital Structure
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +52,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'valentina.rutigliano@sauder.ubc.ca'
+# email: 'husnam@sfu.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -59,7 +61,7 @@ Welcome!
 
 I am Husna Memon, a Finance Ph.D. candidate  at Simon Fraser University.
 {style="text-align: justify;"}
-My work is in empirical corporate finance through the lenses of consumption inequality, income inequality, and gender diversity.  Currently, I research the effect of corporate ownership structure on workers and the determinants of entrepreneurial entry and success. I am especially interested in understanding what causes the persistent gender gap in entrepreneurship.
+My work is in empirical corporate finance through the lenses of consumption inequality, income inequality, and gender diversity.  My recent research studies how the disaggregation of consumer sentiment across income groups can be used to forecast cashflows and returns in the cross-section of firms, as well as to predict future market changes. 
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
 
