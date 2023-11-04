@@ -60,10 +60,7 @@ Welcome!
 I am Husna Memon, a Finance Ph.D. candidate  at Simon Fraser University.
 {style="text-align: justify;"}
 My work is in empirical corporate finance through the lenses of consumption inequality, income inequality, and gender diversity.  My recent research studies how the disaggregation of consumer sentiment across income groups can be used to forecast cashflows and returns in the cross-section of firms, as well as to predict future market changes. 
-{style="text-align: justify;"}
-{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
 
 Email: husna_memon@sfu.ca
-
 
 Address: 500 Granville St, Vancouver, BC V6C 1W6
