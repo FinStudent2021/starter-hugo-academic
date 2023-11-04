@@ -27,7 +27,7 @@ publication_short:
 abstract: "This study shows that changes in sentiment inequality, defined as the consumer sentiment difference between high- and low-income groups, can predict the future performance of high-end compared with low-end product firms. Strategies that combine the use of sentiment inequality changes with firms' cash-flow cyclicality (betas) to assess firms' product position on the low- to high-end spectrum generate abnormal risk-adjusted returns. As a case study, we provide evidence of how changes in sentiment inequality predict the relative performance of fast-food versus casual dining firms. Finally, this study shows that an increase in sentiment inequality is a positive predictor of market returns.
 
 # Summary. An optional shortened abstract.
-# summary: "Entrepreneurs [with](https://www.janbena.com) better diversified portfolios provide more insurance to employees against labor income risk: in a sample of over 524,000 Canadian firms and 858,000 owners, firms owned by more diversified entrepreneurs offer more stable jobs and earnings to employees when faced by idiosyncratic shocks. A one standard deviation increase in owner’s diversification reduces the shock’s pass-through rate to labor layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such insurance being partly provided to retain valuable human capital and partly to avoid costly terminations. There is no evidence of insurance being priced in average wages."
+# summary: " [with]https://www.sfu.ca/~arubin/
 
 tags: []
 
