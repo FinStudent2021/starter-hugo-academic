@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Husna Memon
+title: Valentina Rutigliano
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role: Finance Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SFU Beedie School of Business
-    url: https://https://beedie.sfu.ca/
+  - name: Sauder School of Business
+    url: https://www.sauder.ubc.ca/
 
 
 # Interests to show in About widget
@@ -27,19 +27,19 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:husna_memon@sfu.ca
+    link: mailto:valentina.rutigliano@sauder.ubc.ca
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/husnarmemon
+    link: https://twitter.com/valentinaruts
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
- #   icon_pack: fab
-  #  link: https://github.com/valentinaruts
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/valentinaruts
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/husnamemon/
+    link: https://www.linkedin.com/in/valentina-rutigliano-297353110/
 
 
 # Link to a PDF of your resume/CV.
@@ -50,7 +50,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'husnam@sfu.ca'
+# email: 'valentina.rutigliano@sauder.ubc.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -64,3 +64,4 @@ My work is in empirical corporate finance through the lenses of consumption ineq
 Email: husna_memon@sfu.ca
 
 Address: 500 Granville St, Vancouver, BC V6C 1W6
+
