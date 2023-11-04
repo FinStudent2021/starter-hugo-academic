@@ -14,10 +14,10 @@ organizations:
     url: https://https://beedie.sfu.ca/
 
 # Interests to show in About widget
- interests:
- - Corporate Finance
-  - Labor Economics
-  - Entrepreneurship
+# interests:
+# - Corporate Finance
+#  - Labor Economics
+#  - Entrepreneurship
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
